@@ -102,7 +102,7 @@ Ensure the following are installed:
 <ol>
   <li><strong>Clone the repository:</strong>
     <pre>
-    git clone https://github.com/yourusername/DataDriven_Framework.git
+    git clone https://github.com/yuvrajchavale/Data-Driven-With-Orange-HRM.git
     cd DataDriven_Framework
     </pre>
   </li>
